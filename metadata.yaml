@@ -1,0 +1,65 @@
+_repo: Die-Geschichte-meines-Lebens_62735
+_version: 0.0.1
+alternative_title: The story of my life. German
+contributor:
+  author_of_introduction:
+    agent_name: Hollaender, Felix
+    aliases:
+    - Holländer, Felix
+    - Hollander, Felix
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '52058'
+    url: http://www.gutenberg.org/2009/agents/52058
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Felix_Hollaender
+    - https://de.wikipedia.org/wiki/Felix_Hollaender
+  contributors:
+  - agent_name: Sullivan, Annie
+    aliases:
+    - Macy, Anne Sullivan
+    - Sullivan, Anne Mansfield
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '896'
+    url: http://www.gutenberg.org/2009/agents/896
+    wikipedia: https://en.wikipedia.org/wiki/Anne_Sullivan
+  - agent_name: Macy, John Albert
+    birthdate: 1877
+    deathdate: 1932
+    gutenberg_agent_id: '897'
+    url: http://www.gutenberg.org/2009/agents/897
+  translator:
+    agent_name: Seliger, Paul
+    aliases:
+    - Seeliger, Paul
+    - Seliger, P. (Paul)
+    birthdate: 1853
+    deathdate: 1910
+    gutenberg_agent_id: '52092'
+    url: http://www.gutenberg.org/2009/agents/52092
+creator:
+  author:
+    agent_name: Keller, Helen
+    alias: Keller, Helen Adams
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '895'
+    url: http://www.gutenberg.org/2009/agents/895
+    wikipedia: https://en.wikipedia.org/wiki/Helen_Keller
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62735'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Keller, Helen, 1880-1968'
+- !lcsh 'Deafblind women -- United States -- Biography'
+- GITenberg
+title: Die Geschichte meines Lebens
+url: http://www.gutenberg.org/ebooks/62735
