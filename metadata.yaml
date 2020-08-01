@@ -1,5 +1,5 @@
 _repo: Die-Geschichte-meines-Lebens_62735
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The story of my life. German
 contributor:
   author_of_introduction:
@@ -38,6 +38,9 @@ contributor:
     deathdate: 1910
     gutenberg_agent_id: '52092'
     url: http://www.gutenberg.org/2009/agents/52092
+covers:
+- cover_type: archival
+  image_path: 62735-h/images/cover.jpg
 creator:
   author:
     agent_name: Keller, Helen
@@ -48,6 +51,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/895
     wikipedia: https://en.wikipedia.org/wiki/Helen_Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62735#Die-Geschichte-meines-Lebens
 gutenberg_issued: '2020-07-25'
 gutenberg_type: Text
 identifiers:
